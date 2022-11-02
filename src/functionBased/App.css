@@ -122,3 +122,10 @@ a {
 .menuNav li:first-child {
   margin-top: 7rem;
 }
+
+.about {
+  margin-left: 3rem;
+  padding: 3rem;
+  font-size: 1.5rem;
+  color: darkcyan;
+}
