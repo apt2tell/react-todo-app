@@ -15,6 +15,9 @@ This is a simple Todo App built with React components. Allows user to mark/unmar
 - webpack-dev-server
 - hooks
 
+## Live Demo
+
+> You can see [live demo](https://okechukwu-muokwugwo.github.io/react-todo-app/) here
 
 ### To launch the project locally:
 
